@@ -15,8 +15,20 @@
 4. inception 이미지 모델로 classification 학습(모델 저장)
 5. 알고리즘 구동 및 CSV 결과 저장 완료
 
+
+* 플로우 시각화
+![딥러닝실무흐름](https://user-images.githubusercontent.com/29356103/148681903-b80c4176-253f-4a2f-8b50-0d47bfa9f7a1.PNG)
+
 ***
 
+* 불량 이미지 예시
 
+![불량이미지](https://user-images.githubusercontent.com/29356103/148681905-aaad0e06-fc35-4dab-9b16-2de2fa822094.PNG)
+
+
+
+* 모델 평가 기준
+
+![정밀도재현성](https://user-images.githubusercontent.com/29356103/148681906-103bd9df-17c2-49fe-899c-c192b0d1d47d.PNG)
 
 
